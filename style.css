@@ -1,0 +1,59 @@
+iframe {
+
+width: 600px;
+height: 400px;
+
+
+}
+img  {
+width: 500px;
+height: 300px;
+
+
+}
+.disc {
+text-align: center;
+color: yellow;
+
+
+}
+
+.para1 {
+font-size: 30px;
+font-style: italic;
+text-align: center;
+font-size: 80px;
+
+}
+
+
+
+.flex-container {
+width: 600px;
+height: 475px;
+background-color: rgb(226, 17, 44);
+font-size: 200%;
+font-family: Georgia, 'Times New Roman', Times, serif;
+margin-top: 100px;
+margin-right: 200px;
+margin-bottom: 100px;
+margin-left: 200px;
+border-style: groove;
+padding: 5%;
+
+
+}
+
+
+
+
+
+
+
+body {
+background-color: blue;
+}
+
+
+
+
